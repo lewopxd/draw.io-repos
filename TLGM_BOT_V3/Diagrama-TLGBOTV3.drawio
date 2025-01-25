@@ -4,6 +4,52 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_5jPJNh-Uu7ekB4Byuzi-2" target="_5jPJNh-Uu7ekB4Byuzi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-2" value="ESTADO 0" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-3" value="/START" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-5" value="La única posibilidad de conectarse al bot es con el comando /start" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="206" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-9" value="Usuario interactúo con el BOT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_5jPJNh-Uu7ekB4Byuzi-10" target="_5jPJNh-Uu7ekB4Byuzi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-10" value="Event Recibied" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-11" value="MENSAJE DE TEXTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_5jPJNh-Uu7ekB4Byuzi-12" target="_5jPJNh-Uu7ekB4Byuzi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-12" value="Idendity Verification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_5jPJNh-Uu7ekB4Byuzi-14" target="_5jPJNh-Uu7ekB4Byuzi-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-20" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="_5jPJNh-Uu7ekB4Byuzi-19">
+          <mxGeometry x="0.025" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-14" value="Authorized ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-18" value="Banned?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

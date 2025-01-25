@@ -203,7 +203,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_5jPJNh-Uu7ekB4Byuzi-151" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="168.75" width="500" height="361.25" as="geometry" />
+          <mxGeometry x="730" y="168.75" width="500" height="291.25" as="geometry" />
         </mxCell>
         <mxCell id="_5jPJNh-Uu7ekB4Byuzi-3" value="STATE 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_5jPJNh-Uu7ekB4Byuzi-151">
           <mxGeometry x="50" y="23.75" width="120" height="40" as="geometry" />
@@ -226,9 +226,6 @@
         <mxCell id="_5jPJNh-Uu7ekB4Byuzi-141" value="STATE 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_5jPJNh-Uu7ekB4Byuzi-151">
           <mxGeometry x="50" y="213.75" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-148" value="STATE 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_5jPJNh-Uu7ekB4Byuzi-151">
-          <mxGeometry x="50" y="283.75" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="_5jPJNh-Uu7ekB4Byuzi-149" value="BANNED" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_5jPJNh-Uu7ekB4Byuzi-151">
           <mxGeometry x="160" y="221.25" width="120" height="30" as="geometry" />
         </mxCell>
@@ -243,9 +240,6 @@
         </mxCell>
         <mxCell id="_5jPJNh-Uu7ekB4Byuzi-150" value="User unauthorized ever&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_5jPJNh-Uu7ekB4Byuzi-151">
           <mxGeometry x="300" y="216.25" width="166" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-168" value="SUPERUSER" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_5jPJNh-Uu7ekB4Byuzi-151">
-          <mxGeometry x="170" y="288.75" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_5jPJNh-Uu7ekB4Byuzi-161" value="2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="420" y="130" width="20" height="20" as="geometry" />

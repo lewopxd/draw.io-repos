@@ -290,7 +290,7 @@
             <mxPoint x="520" y="207.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="540" y="405" />
-              <mxPoint x="540" y="135" />
+              <mxPoint x="540" y="128" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -310,7 +310,7 @@
         <mxCell id="_5jPJNh-Uu7ekB4Byuzi-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_5jPJNh-Uu7ekB4Byuzi-189" target="_5jPJNh-Uu7ekB4Byuzi-191" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="135" />
+              <mxPoint x="350" y="128" />
               <mxPoint x="350" y="254" />
             </Array>
           </mxGeometry>
@@ -320,8 +320,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-189" value="pool?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="402.5" y="115" width="55" height="40" as="geometry" />
+        <mxCell id="_5jPJNh-Uu7ekB4Byuzi-189" value="connected db?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="100" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_5jPJNh-Uu7ekB4Byuzi-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_5jPJNh-Uu7ekB4Byuzi-191" target="_5jPJNh-Uu7ekB4Byuzi-10" edge="1">
           <mxGeometry relative="1" as="geometry" />

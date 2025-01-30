@@ -492,17 +492,17 @@
         <mxCell id="isAi0A1f4TaXlX-RfY9C-39" value="url ok?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="755" y="-120" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="isAi0A1f4TaXlX-RfY9C-51" value="Reject Connection Status (404)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="isAi0A1f4TaXlX-RfY9C-51" value="Reject Connection Status (403)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="-110" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="isAi0A1f4TaXlX-RfY9C-52" value="Rejet Connection Status (403)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="isAi0A1f4TaXlX-RfY9C-52" value="Rejet Connection Status (401)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="-40" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="isAi0A1f4TaXlX-RfY9C-53" value="*Not Found" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="isAi0A1f4TaXlX-RfY9C-53" value="Forbiden" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1050" y="-115" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="isAi0A1f4TaXlX-RfY9C-54" value="*Forbidden" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="-45" width="70" height="30" as="geometry" />
+        <mxCell id="isAi0A1f4TaXlX-RfY9C-54" value="Unauthorized" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="-45" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="isAi0A1f4TaXlX-RfY9C-60" value="Rejet Connection Status (404)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="40" width="170" height="20" as="geometry" />
@@ -532,6 +532,9 @@
         </mxCell>
         <mxCell id="isAi0A1f4TaXlX-RfY9C-72" value="EVENT++" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="765" y="-160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oDMLqmSONVi1NAlNZvaK-1" value="Not Found" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="35" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
